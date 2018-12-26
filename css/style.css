@@ -46,22 +46,31 @@ header{
 	
 }
 
+
+.section{
+
+	display: flex;
+	border: thin #c0c0c0 solid;
+	width:100%;
+	padding:12px;
+	
+}
+
+.featured-work{
+
+   display: flex;
+	
+}
 #main-block{
 
-	float: left;
-	width: 40%;
-	padding:10px;
-	box-sizing: border-box;
+	flex:1;
 	
 }
 
 #side-image{
 
-	float: right;
-	width:60%;
-	box-sizing: border-box;
-	padding:10px;
 	
+	flex:1;
 
 }
 
@@ -72,31 +81,51 @@ header{
 	border-radius: 2px;
 
 }
-.section{
+#Html-image{
 
-	border: thin #c0c0c0 solid;
 	width:100%;
+	margin:auto;
+
 	
 }
 
-.featured-work{
+#Css-image{
 
-    width:33.3%;
+	width:100%;
+	margin:auto;
 	
-}
-#html-image{
-
-	width:33%;
-	float:left;
-}
-
-#Jvs-image{
-
-	width:33%;
+	
 }
 #Git-image{
 
-	width:33%;
-	float: right;
+	width:100%;
+	margin:auto;
+    
+	
 
 }
+
+ h1{
+
+    color:#7d97ad;
+	
+}
+
+#Html{
+
+ flex:1;
+
+}
+#Css{
+
+flex:1;
+
+}
+
+#Git{
+
+flex:1;
+}
+
+
+
