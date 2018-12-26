@@ -18,7 +18,7 @@
 
 body{
 
-	background-color: blue;
+	background-color: white;
 }
 
 h1{
@@ -87,7 +87,6 @@ header{
 
 #Html-box , #Css-box , #Git-box {
 
- 
  width:30%;
 
 }
