@@ -1,0 +1,30 @@
+body h1{
+
+	text-align: right;
+	text-transform: uppercase;
+	font-family: Ariel;
+	font-size: 40px;
+	margin:1px;
+	color:#2d3c49;
+	position: relative;
+}
+
+h2{
+
+	text-align: right;
+	position: 20px;
+
+}
+
+body hr{
+
+	background-color:#7d79ad;
+	height:1px;
+
+
+
+.container{
+
+	width:100%;
+	margin:0;
+}
