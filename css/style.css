@@ -52,7 +52,7 @@ header{
 	margin:10px;
 	padding: 10px, 10px;
 }
-.section{
+.main-section{
 
 	display: flex;
 	flex-flow: column;
@@ -61,7 +61,7 @@ header{
 	text-align: center;
 	
 }
-#webdev-image{
+#main-image{
 
 	max-width:100%;
 	height: auto;
