@@ -55,20 +55,11 @@ header{
 .section{
 
 	display: flex;
-	margin:0;
+	flex-flow: column;
 	border: thin #c0c0c0 solid;
 	padding:12px;
+	text-align: center;
 	
-}
-#main-block{
-
-	flex:1;
-}
-#side-image{
-
-	
-	flex:1;
-
 }
 #webdev-image{
 
