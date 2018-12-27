@@ -1,4 +1,4 @@
-.head h1{
+.head h1,h2{
 
 	text-align: right;
 	text-transform: uppercase;
@@ -11,8 +11,7 @@
 
 .head h2{
 
-	text-align: right;
-	text-transform: uppercase;
+	font-size: 20px;
 
 }
 
@@ -36,6 +35,10 @@ hr{
 header{
 
 	margin:0;
+}
+.box1{
+
+	height: 200px;
 }
 
 .logo{
