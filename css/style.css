@@ -36,6 +36,12 @@ header{
 
 	margin:0;
 }
+
+footer{
+
+	text-align: center;
+	margin-top: 20px;
+}
 .featuredwork-container h3{
 
 	text-align: center;
