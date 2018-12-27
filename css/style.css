@@ -46,17 +46,16 @@ header{
 }
 .container{
 
-	width:100%;
-	margin:auto;
+	margin:10px;
 	padding: 10px, 10px;
 }
 .section{
 
 	display: flex;
-	border: thin #c0c0c0 solid;
-	width:100%;
-	padding:12px;
 	margin:0;
+	border: thin #c0c0c0 solid;
+	padding:12px;
+	
 }
 #main-block{
 
