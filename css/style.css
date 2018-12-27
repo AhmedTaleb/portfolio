@@ -61,17 +61,26 @@ header{
 	text-align: center;
 	
 }
+
+.featuredwork-container{
+
+   display: flex;
+   justify-content: space-between;
+}
+
 #main-image{
 
 	max-width:100%;
 	height: auto;
 	border-radius: 2px;
 }
-.featuredwork-container{
 
-   display: flex;
-   justify-content: space-between;
+#main-paragraph{
+
+	padding: 12px;
+	font-family: Georgia;
 }
+
 #Html-image, #Css-image, #Git-image{
 
 	width:100%;
