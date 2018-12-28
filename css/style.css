@@ -1,4 +1,4 @@
-.head h1,h2{
+header h1,h2{
 
 	text-align: right;
 	text-transform: uppercase;
@@ -9,7 +9,7 @@
 	
 }
 
-.head h2{
+header h2{
 
 	font-size: 20px;
 
@@ -42,6 +42,7 @@ footer{
 	text-align: center;
 	margin-top: 20px;
 }
+
 .featuredwork-container h3, h4{
 
 	text-align: center;
