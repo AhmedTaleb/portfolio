@@ -54,18 +54,18 @@ footer{
 }
 .box1{
 
-	height: 200px;
+	height: 150px;
 }
 
 .logo{
 
-	max-width: 200px;
+	max-width: 250px;
 	float: left;
 	box-sizing: border-box;
 }
 .container{
 
-	margin:10px;
+	margin:10px auto;
 	padding: 10px, 10px;
 }
 .main-section{
